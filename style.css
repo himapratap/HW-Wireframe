@@ -64,10 +64,8 @@ aside {
 
 footer {
     background-color: #EBEBEB;
-    height: 50px;
-    width: 960px;
-    margin: 10px auto;
-    padding-top: 20px;
+    margin: auto;
+    padding: 30px;
 }
 
 .clear {
